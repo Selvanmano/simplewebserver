@@ -87,7 +87,7 @@ httpd.serve_forever()
 
 ## OUTPUT:
 web page
-c:\Users\acer\Pictures\Screenshots\Screenshot (24).png
+![alt text](image-1.png)
 server page 
 ![alt text](image.png)
 
